@@ -1,0 +1,43 @@
+/* main.css */
+
+body {
+    background-color: papayawhip;
+    min-height: 100vh;
+    max-width: 768px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+a:hover {
+    background-color: rgb(227, 255, 226);
+}
+a:link, a:visited {
+    color: rgb(13, 89, 255)
+}
+
+h1 {
+    font-family: Times;
+    color: black;
+    text-align: center;
+}
+
+h2 {
+    font-family: monospace;
+    font-size: 24px;
+    color: blue;
+}
+
+h3 {
+    font-family: Arial;
+    font-size: 18px;
+    color: blue;
+}
+
+p {
+    font-family: courier;
+    font-size: 14px;
+    border: 2px solid powderblue;
+} 
+
+
+
