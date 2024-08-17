@@ -1,0 +1,4 @@
+baseURL = 'https://xianzhiw.github.io/'
+languageCode = 'en-us'
+title = 'Xianzhi Wang'
+theme = 'ananke'
