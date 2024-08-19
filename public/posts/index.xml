@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Xianzhi Wang</title>
+    <link>https://xianzhiw.github.io/posts/</link>
+    <description>Recent content in Posts on Xianzhi Wang</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Aug 2024 15:54:00 -0500</lastBuildDate>
+    <atom:link href="https://xianzhiw.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post 001</title>
+      <link>https://xianzhiw.github.io/posts/post-001/</link>
+      <pubDate>Sat, 17 Aug 2024 15:54:00 -0500</pubDate>
+      <guid>https://xianzhiw.github.io/posts/post-001/</guid>
+      <description>Hi! I am Xianzhi Wang, a Mathematics PhD student at TAMU. I will be a TA for Calc I during Fall 2024 semester.</description>
+    </item>
+  </channel>
+</rss>
