@@ -5,14 +5,11 @@ draft = false
 +++
 
  
-<p> Teaching Experience </p>
-<p>
-<b> Spring 2024 </b> 
-Teaching Assistant for Math 152, Engineering Mathematics II, lead weekly labs and recitation sections.
-</p>
+# Teaching Experience
+### Spring 2024
 
-<p>
-<b> Fall 2023 </b> 
+Teaching Assistant for Math 152, Engineering Mathematics II, lead weekly labs and recitation sections.
+
+### Fall 2023
 Teaching Assistant for Math 151, Engineering Mathematics I, lead weekly labs and recitation sections.
-</p>
 
