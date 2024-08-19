@@ -1,0 +1,128 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Xianzhi Wang</title>
+	<link>http://localhost:1313/pages/</link>
+	<description>Recent content in Pages on Xianzhi Wang</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Sat, 17 Aug 2024 16:16:28 -0500</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Resume</title>
+		<link>http://localhost:1313/pages/resume/</link>
+		<pubDate>Sat, 17 Aug 2024 16:16:28 -0500</pubDate>
+		
+		<guid>http://localhost:1313/pages/resume/</guid>
+		<description>&lt;p&gt;I need to put my resume or CV here.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Research</title>
+		<link>http://localhost:1313/pages/research/</link>
+		<pubDate>Sat, 17 Aug 2024 16:16:13 -0500</pubDate>
+		
+		<guid>http://localhost:1313/pages/research/</guid>
+		<description>&lt;h1 id=&#34;research&#34;&gt;Research&lt;/h1&gt;
+&lt;h3 id=&#34;applying-combinatorial-nullstellensatz-to-no-3-in-a-line-poblem&#34;&gt;Applying Combinatorial Nullstellensatz to no-3-in-a-line poblem&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Repeatedly applying the Combinatorial Nullstellensatz
+for Zero-sum Grids to Martin Gardner&amp;rsquo;s minimum
+no-3-in-a-line problem&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;ArXiv Link:
+&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://arxiv.org/abs/2401.03119&#34;&gt;https://arxiv.org/abs/2401.03119&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;;&lt;/p&gt;
+&lt;p&gt;Seunghwan Oh, John R. Schmitt, Xianzhi Wang&lt;/p&gt;
+&lt;h3 id=&#34;large-sets-avoiding-patterns&#34;&gt;Large sets avoiding patterns&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Large sets avoiding infinite arithmetic / geometric progressions, Real Analysis Exchange.&lt;/em&gt;
+Published Version:
+&lt;!-- raw HTML omitted --&gt;DOI: 10.14321/realanalexch.48.2.1668676378&lt;!-- raw HTML omitted --&gt;;
+ArXiv Version:
+&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://arxiv.org/abs/2210.09284&#34;&gt;https://arxiv.org/abs/2210.09284&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alex Burgin, Samuel Goldberg, Tamás Keleti, Connor MacMahon, Xianzhi Wang&lt;/li&gt;
+&lt;li&gt;We investigate some problems that&amp;rsquo;s related to the Erdős similarity conjecture.&lt;/li&gt;
+&lt;li&gt;We construct a compact subset E of the real line such that zero is a Lebesgue density point of E,
+but E does not contain any (non-constant) infinite geometric progression.&lt;/li&gt;
+&lt;li&gt;We give some small improvements on some known related results.&lt;/li&gt;
+&lt;li&gt;We give a sufficient condition that guarantees that a given Cantor-type set
+contains at least one infinite geometric progression with any quotient between 0 and 1,
+and this condition could be used to prove that symmetric Cantor sets of&lt;br&gt;
+positive measure contain infinite geometric progressions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;planar-turán-number&#34;&gt;Planar Turán number&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Extremal Planar Graphs with no Cycles of Perticular Lengths, under review.&lt;/em&gt;
+ArXiv Link： &lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://arxiv.org/abs/2208.13477&#34;&gt;https://arxiv.org/abs/2208.13477&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ervin Győri, Xianzhi Wang, Zeyu Zheng&lt;/li&gt;
+&lt;li&gt;We give a new proof of the planar Turán number of C5 and a nicer extremal construction.&lt;/li&gt;
+&lt;li&gt;We applied &amp;ldquo;contribution method&amp;rdquo; to determine the maximal number of edges in
+a bipartite/triangle-free planar graph without small, even cycles.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Teaching Assistantship</title>
+		<link>http://localhost:1313/pages/teaching-assistantship/</link>
+		<pubDate>Sat, 17 Aug 2024 16:15:51 -0500</pubDate>
+		
+		<guid>http://localhost:1313/pages/teaching-assistantship/</guid>
+		<description>&lt;h1 id=&#34;teaching-experience&#34;&gt;Teaching Experience&lt;/h1&gt;
+&lt;h3 id=&#34;spring-2024&#34;&gt;Spring 2024&lt;/h3&gt;
+&lt;p&gt;Teaching Assistant for Math 152, Engineering Mathematics II, lead weekly labs and recitation sections.&lt;/p&gt;
+&lt;h3 id=&#34;fall-2023&#34;&gt;Fall 2023&lt;/h3&gt;
+&lt;p&gt;Teaching Assistant for Math 151, Engineering Mathematics I, lead weekly labs and recitation sections.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Home</title>
+		<link>http://localhost:1313/pages/home/</link>
+		<pubDate>Sat, 17 Aug 2024 16:15:19 -0500</pubDate>
+		
+		<guid>http://localhost:1313/pages/home/</guid>
+		<description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt; &lt;em&gt;Site currently under construction&lt;/em&gt; &lt;!-- raw HTML omitted --&gt;
+Hi, welcome to this webpage!
+I&amp;rsquo;m a second-year PhD student at Texas A&amp;amp;M University Mathematics Department, started fall 2023.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>About</title>
+		<link>http://localhost:1313/pages/about/</link>
+		<pubDate>Sat, 17 Aug 2024 16:12:52 -0500</pubDate>
+		
+		<guid>http://localhost:1313/pages/about/</guid>
+		<description>&lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;
+&lt;h3 id=&#34;languages&#34;&gt;Languages:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Chinese and English: fluent.&lt;/li&gt;
+&lt;li&gt;French and Spanish: intermediate.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;math-tools&#34;&gt;Math tools:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;LaTex&lt;/li&gt;
+&lt;li&gt;MATLAB&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;programming&#34;&gt;Programming:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Post 001</title>
+		<link>http://localhost:1313/posts/post-001/</link>
+		<pubDate>Sat, 17 Aug 2024 15:54:00 -0500</pubDate>
+		
+		<guid>http://localhost:1313/posts/post-001/</guid>
+		<description>&lt;p&gt;Hi! I am Xianzhi Wang, a Mathematics PhD student at TAMU.
+I will be a TA for Calc I during Fall 2024 semester.&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
