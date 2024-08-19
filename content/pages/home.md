@@ -1,7 +1,7 @@
 +++
 title = 'Home'
 date = 2024-08-17T16:15:19-05:00
-draft = true
+draft = false 
 +++
 
 
