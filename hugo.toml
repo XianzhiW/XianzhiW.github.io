@@ -11,6 +11,7 @@ title        = "Xianzhi Wang"
 baseURL = 'https://xianzhiw.github.io/'
 # baseURL = 'https://example.org'
 languageCode = 'en-us'
+publishDir = "./docs/"
 
 theme = 'lugo'
 # paginate     = 10
