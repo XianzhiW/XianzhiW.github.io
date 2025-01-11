@@ -12,20 +12,17 @@ draft = false
 ### Applying Combinatorial Nullstellensatz to no-3-in-a-line poblem
 *Repeatedly applying the Combinatorial Nullstellensatz 
 for Zero-sum Grids to Martin Gardner's minimum 
-no-3-in-a-line problem*
-
-*Accepted for publication*
-
-ArXiv Link: 
-<a href="https://arxiv.org/abs/2401.03119" target="_blank">https://arxiv.org/abs/2401.03119</a>;
-
+no-3-in-a-line problem*\
+Accepted for publication\
+ArXiv Link:\
+<a href="https://arxiv.org/abs/2401.03119" target="_blank">https://arxiv.org/abs/2401.03119</a>;\
 Seunghwan Oh, John R. Schmitt, Xianzhi Wang
 
 ### Large sets avoiding patterns 
-*Large sets avoiding infinite arithmetic / geometric progressions, Real Analysis Exchange.*
-Published Version: 
-<a href="https://doi.org/10.14321/realanalexch.48.2.1668676378" target="_blank">DOI: 10.14321/realanalexch.48.2.1668676378</a>;
-ArXiv Version: 
+*Large sets avoiding infinite arithmetic / geometric progressions, Real Analysis Exchange.*\
+Published Version:  
+<a href="https://doi.org/10.14321/realanalexch.48.2.1668676378" target="_blank">DOI: 10.14321/realanalexch.48.2.1668676378</a>;\
+ArXiv Link: 
 <a href="https://arxiv.org/abs/2210.09284" target="_blank">https://arxiv.org/abs/2210.09284</a>;
 
 - Alex Burgin, Samuel Goldberg, Tamás Keleti, Connor MacMahon, Xianzhi Wang  
@@ -40,11 +37,18 @@ positive measure contain infinite geometric progressions.
 
 
 ### Planar Turán number 
-*Extremal Planar Graphs with no Cycles of Perticular Lengths, under review.*
-ArXiv Link： <a href="https://arxiv.org/abs/2208.13477" target="_blank">https://arxiv.org/abs/2208.13477</a>;
+*Extremal Planar Graphs with no Cycles of Perticular Lengths, under review.*\
+ArXiv Link:\
+<a href="https://arxiv.org/abs/2208.13477" target="_blank">https://arxiv.org/abs/2208.13477</a>;
 
 - Ervin Győri, Xianzhi Wang, Zeyu Zheng
 - We give a new proof of the planar Turán number of C5 and a nicer extremal construction.
 - We applied "contribution method" to determine the maximal number of edges in 
 a bipartite/triangle-free planar graph without small, even cycles.
-    
+
+
+
+
+
+Homepage:
+[https://xianzhiw.github.io/](https://xianzhiw.github.io/)

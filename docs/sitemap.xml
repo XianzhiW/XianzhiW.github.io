@@ -2,11 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://xianzhiw.github.io/</loc>
     <lastmod>2024-08-19T18:07:05-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://xianzhiw.github.io/pages/</loc>
+    <lastmod>2024-08-17T16:16:28-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://xianzhiw.github.io/pages/research/</loc>
+    <lastmod>2024-08-17T16:16:13-05:00</lastmod>
+  </url><url>
+    <loc>https://xianzhiw.github.io/pages/teaching-assistantship/</loc>
+    <lastmod>2024-08-17T16:15:51-05:00</lastmod>
+  </url><url>
+    <loc>https://xianzhiw.github.io/pages/home/</loc>
+    <lastmod>2024-08-17T16:15:19-05:00</lastmod>
+  </url><url>
+    <loc>https://xianzhiw.github.io/pages/about/</loc>
+    <lastmod>2024-08-17T16:12:52-05:00</lastmod>
+  </url><url>
+    <loc>https://xianzhiw.github.io/posts/post-001/</loc>
+    <lastmod>2024-08-17T15:54:00-05:00</lastmod>
+  </url><url>
+    <loc>https://xianzhiw.github.io/posts/</loc>
+    <lastmod>2024-08-17T15:54:00-05:00</lastmod>
+  </url><url>
+    <loc>https://xianzhiw.github.io/categories/</loc>
+  </url><url>
+    <loc>https://xianzhiw.github.io/tags/</loc>
   </url>
 </urlset>
