@@ -1,0 +1,14 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Xianzhi Wang</title>
+	<link>https://xianzhiw.github.io/</link>
+	<description>Recent content on Xianzhi Wang</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Mon, 19 Aug 2024 18:07:05 -0500</lastBuildDate>
+    
+        <atom:link href="https://xianzhiw.github.io/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	</channel>
+</rss>

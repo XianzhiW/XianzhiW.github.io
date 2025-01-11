@@ -14,6 +14,8 @@ draft = false
 for Zero-sum Grids to Martin Gardner's minimum 
 no-3-in-a-line problem*
 
+*Accepted for publication*
+
 ArXiv Link: 
 <a href="https://arxiv.org/abs/2401.03119" target="_blank">https://arxiv.org/abs/2401.03119</a>;
 
