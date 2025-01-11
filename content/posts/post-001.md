@@ -5,4 +5,4 @@ draft = false
 +++
 
 Hi! I am Xianzhi Wang, a Mathematics PhD student at TAMU. 
-I will be a TA for Calc I during Fall 2024 semester.
+I will be a TA for Math 151, which is Calc I, during spring 2025 semester.
