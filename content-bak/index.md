@@ -7,8 +7,10 @@ draft = false
 
 # Hi there, welcome to my webpage!
 
-Howdy! I am Xianzhi Wang, a Mathematics PhD student at TAMU. 
-I will be a TA for Math 152, which is Calc II, during fall 2025 semester.
+I am currently transitioning to using 
+HUGO for my static website, previously
+I worked with html with minimal css.
+
 
 [https://xianzhiw.github.io/pages](https://xianzhiw.github.io/pages)
 

@@ -13,5 +13,6 @@ baseURL = 'https://xianzhiw.github.io/'
 languageCode = 'en-us'
 publishDir = "./docs/"
 
-theme = 'lugo'
+theme = 'hugo-xmin'
+# theme = 'lugo'
 # paginate     = 10
