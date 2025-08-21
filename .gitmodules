@@ -1,3 +1,6 @@
 [submodule "themes/lugo"]
 	path = themes/lugo
 	url = https://github.com/lukesmithxyz/lugo
+[submodule "themes/hugo-xmin"]
+	path = themes/hugo-xmin
+	url = git@github.com:XianzhiW/hugo-xmin.git
