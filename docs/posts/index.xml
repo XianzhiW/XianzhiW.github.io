@@ -6,14 +6,14 @@
     <description>Recent content in Posts on Xianzhi Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Aug 2025 12:06:10 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 12:40:17 -0500</lastBuildDate>
     <atom:link href="https://xianzhiw.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Research</title>
-      <link>https://xianzhiw.github.io/posts/research/</link>
-      <pubDate>Thu, 21 Aug 2025 12:06:10 -0500</pubDate>
-      <guid>https://xianzhiw.github.io/posts/research/</guid>
-      <description></description>
+      <title>Post 001</title>
+      <link>https://xianzhiw.github.io/posts/post-001/</link>
+      <pubDate>Thu, 21 Aug 2025 12:40:17 -0500</pubDate>
+      <guid>https://xianzhiw.github.io/posts/post-001/</guid>
+      <description>&lt;h3 id=&#34;this-is-a-sample-post&#34;&gt;This is a sample post!&lt;/h3&gt;&#xA;&lt;p&gt;I am going to take Topology I in fall 2025!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
