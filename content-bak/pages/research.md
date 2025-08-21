@@ -7,12 +7,7 @@ draft = false
 
 
 
-# Current Research 
-
-### Solving PDE with incomplete noisy information
-Current research project advised by Dr. Andrea Bonito
-
-# Past Research
+# Research
 
 ### Applying Combinatorial Nullstellensatz to no-3-in-a-line poblem
 *Repeatedly applying the Combinatorial Nullstellensatz 
