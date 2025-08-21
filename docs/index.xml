@@ -2,45 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xianzhi Wang</title>
-    <link>http://localhost:1313/</link>
+    <link>https://xianzhiw.github.io/</link>
     <description>Recent content on Xianzhi Wang</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Aug 2024 16:16:28 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Resume</title>
-      <link>http://localhost:1313/pages/resume/</link>
-      <pubDate>Sat, 17 Aug 2024 16:16:28 -0500</pubDate>
-      <guid>http://localhost:1313/pages/resume/</guid>
-      <description>&lt;p&gt;I need to put my resume or CV in the static directory,&#xA;and include a link here.&lt;/p&gt;&#xA;&lt;p&gt;Homepage: &lt;a href=&#34;https://xianzhiw.github.io/&#34;&gt;https://xianzhiw.github.io/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Sat, 17 Aug 2024 16:16:13 -0500</lastBuildDate>
+    <atom:link href="https://xianzhiw.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/pages/research/</link>
+      <link>https://xianzhiw.github.io/pages/research/</link>
       <pubDate>Sat, 17 Aug 2024 16:16:13 -0500</pubDate>
-      <guid>http://localhost:1313/pages/research/</guid>
+      <guid>https://xianzhiw.github.io/pages/research/</guid>
       <description>&lt;h1 id=&#34;current-research&#34;&gt;Current Research&lt;/h1&gt;&#xA;&lt;h3 id=&#34;solving-pde-with-incomplete-noisy-information&#34;&gt;Solving PDE with incomplete noisy information&lt;/h3&gt;&#xA;&lt;p&gt;Current research project advised by Dr. Andrea Bonito&lt;/p&gt;&#xA;&lt;h1 id=&#34;past-research&#34;&gt;Past Research&lt;/h1&gt;&#xA;&lt;h3 id=&#34;applying-combinatorial-nullstellensatz-to-no-3-in-a-line-poblem&#34;&gt;Applying Combinatorial Nullstellensatz to no-3-in-a-line poblem&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Repeatedly applying the Combinatorial Nullstellensatz&#xA;for Zero-sum Grids to Martin Gardner&amp;rsquo;s minimum&#xA;no-3-in-a-line problem&lt;/em&gt;&lt;br&gt;&#xA;Accepted for publication&lt;br&gt;&#xA;ArXiv Link:&lt;br&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://arxiv.org/abs/2401.03119&#34;&gt;https://arxiv.org/abs/2401.03119&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;;&lt;br&gt;&#xA;Seunghwan Oh, John R. Schmitt, Xianzhi Wang&lt;/p&gt;&#xA;&lt;h3 id=&#34;large-sets-avoiding-patterns&#34;&gt;Large sets avoiding patterns&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Large sets avoiding infinite arithmetic / geometric progressions, Real Analysis Exchange.&lt;/em&gt;&lt;br&gt;&#xA;Published Version:&lt;br&gt;&#xA;&lt;!-- raw HTML omitted --&gt;DOI: 10.14321/realanalexch.48.2.1668676378&lt;!-- raw HTML omitted --&gt;;&lt;br&gt;&#xA;ArXiv Link:&#xA;&lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://arxiv.org/abs/2210.09284&#34;&gt;https://arxiv.org/abs/2210.09284&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Teaching Assistantship</title>
-      <link>http://localhost:1313/pages/teaching-assistantship/</link>
+      <link>https://xianzhiw.github.io/pages/teaching-assistantship/</link>
       <pubDate>Sat, 17 Aug 2024 16:15:51 -0500</pubDate>
-      <guid>http://localhost:1313/pages/teaching-assistantship/</guid>
+      <guid>https://xianzhiw.github.io/pages/teaching-assistantship/</guid>
       <description>&lt;h1 id=&#34;teaching-experience&#34;&gt;Teaching Experience&lt;/h1&gt;&#xA;&lt;h3 id=&#34;spring-2025&#34;&gt;Spring 2025&lt;/h3&gt;&#xA;&lt;p&gt;Teaching Assistant for Math 151, Engineering Mathematics I, lead weekly labs and recitation sections.&lt;/p&gt;&#xA;&lt;h3 id=&#34;fall-2024&#34;&gt;Fall 2024&lt;/h3&gt;&#xA;&lt;p&gt;Teaching Assistant for Math 151, Engineering Mathematics I, lead weekly labs and recitation sections.&lt;/p&gt;&#xA;&lt;h3 id=&#34;summer-2024&#34;&gt;Summer 2024&lt;/h3&gt;&#xA;&lt;p&gt;Grader for Undergraduate Linear Algebra Course at TAMU.&lt;/p&gt;&#xA;&lt;h3 id=&#34;spring-2024&#34;&gt;Spring 2024&lt;/h3&gt;&#xA;&lt;p&gt;Teaching Assistant for Math 152, Engineering Mathematics II, lead weekly labs and recitation sections.&lt;/p&gt;&#xA;&lt;h3 id=&#34;fall-2023&#34;&gt;Fall 2023&lt;/h3&gt;&#xA;&lt;p&gt;Teaching Assistant for Math 151, Engineering Mathematics I, lead weekly labs and recitation sections.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Home</title>
-      <link>http://localhost:1313/pages/home/</link>
+      <link>https://xianzhiw.github.io/pages/home/</link>
       <pubDate>Sat, 17 Aug 2024 16:15:19 -0500</pubDate>
-      <guid>http://localhost:1313/pages/home/</guid>
+      <guid>https://xianzhiw.github.io/pages/home/</guid>
       <description>&lt;p&gt;Hi, welcome to this webpage!&#xA;I&amp;rsquo;m a third-year PhD student at Texas A&amp;amp;M University Mathematics Department, started fall 2023.&lt;/p&gt;&#xA;&lt;p&gt;Homepage: &lt;a href=&#34;https://xianzhiw.github.io/&#34;&gt;https://xianzhiw.github.io/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/pages/about/</link>
+      <link>https://xianzhiw.github.io/pages/about/</link>
       <pubDate>Sat, 17 Aug 2024 16:12:52 -0500</pubDate>
-      <guid>http://localhost:1313/pages/about/</guid>
+      <guid>https://xianzhiw.github.io/pages/about/</guid>
       <description>&lt;p&gt;Hi! I am Xianzhi Wang, a Mathematics PhD student at TAMU.&#xA;I will be a TA for Math 152, which is Calc II, during fall 2025 semester.&lt;/p&gt;&#xA;&lt;h1 id=&#34;skills&#34;&gt;Skills&lt;/h1&gt;&#xA;&lt;h3 id=&#34;languages&#34;&gt;Languages:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Chinese and English: fluent.&lt;/li&gt;&#xA;&lt;li&gt;French and Spanish: intermediate.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;math-tools&#34;&gt;Math tools:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;LaTex&lt;/li&gt;&#xA;&lt;li&gt;MATLAB&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;programming&#34;&gt;Programming:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Python&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Homepage: &lt;a href=&#34;https://xianzhiw.github.io/&#34;&gt;https://xianzhiw.github.io/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
