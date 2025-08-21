@@ -10,15 +10,12 @@ I will be a TA for Math 152, which is Calc II, during fall 2025 semester.
 
 # Skills
 
-### Languages: 
-- Chinese and English: fluent. 
-- French and Spanish: intermediate.
-
 ### Math tools: 
 - LaTex 
 - MATLAB
 
 ### Programming: 
+- C++
 - Python
 
 Homepage: [https://xianzhiw.github.io/](https://xianzhiw.github.io/)
