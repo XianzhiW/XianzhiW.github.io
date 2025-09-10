@@ -5,7 +5,6 @@ draft = false
 +++
 
 Hi! I am Xianzhi Wang, a Mathematics PhD student at TAMU. 
-I will be a TA for Math 152, which is Calc II, during fall 2025 semester.
 
 
 # Skills
@@ -19,3 +18,6 @@ I will be a TA for Math 152, which is Calc II, during fall 2025 semester.
 - Python
 
 Homepage: [https://xianzhiw.github.io/](https://xianzhiw.github.io/)
+
+
+

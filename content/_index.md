@@ -8,7 +8,6 @@ draft = false
 # Hi there, welcome to my webpage!
 
 Howdy! I am Xianzhi Wang, a Mathematics PhD student at TAMU. 
-I will be a TA for Math 152, which is Calc II, during fall 2025 semester.
 
 [https://xianzhiw.github.io/pages](https://xianzhiw.github.io/pages)
 
