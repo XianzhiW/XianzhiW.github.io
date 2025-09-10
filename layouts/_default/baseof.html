@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Xianzhi Wang</title>
+    <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
     <link rel="stylesheet" href="/css/main.css">
 </head>
 <body>
@@ -14,17 +14,11 @@
     </header>
 
     <main>
-        
-    <h1>Categories</h1>
-    
-    <ul>
-        
-    </ul>
-
+        {{ block "main" . }}{{ end }}
     </main>
 
     <footer>
-        <p>2025</p>
+        <p>{{ now.Year }}</p>
     </footer>
 </body>
 </html>

@@ -16,3 +16,6 @@ publishDir = "./docs/"
 theme = 'hugo-xmin'
 # theme = 'lugo'
 # paginate     = 10
+
+[markup.goldmark.renderer]
+  unsafe = true
