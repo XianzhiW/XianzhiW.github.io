@@ -1,0 +1,11 @@
+
+.mailmap
+mailmap
+mailmap/
+
+*.env
+.env
+env
+env/
+
+*.bak
